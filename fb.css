@@ -63,6 +63,8 @@ hr{
     padding-bottom: 13px;
     width: fit-content;
     text-align: center;
+    text-align-last: center;
+    width: 100%;
     height: fit-content;
     align-items: center;
     position: relative;
