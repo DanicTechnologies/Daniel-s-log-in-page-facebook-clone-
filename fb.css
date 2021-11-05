@@ -16,7 +16,6 @@ body{
     padding-bottom: 10px;
     font-size: large;
     margin-left: 41.5%;
-    margin-right: 58.5%;
     color: #ffffff;
     font-family: sans-serif;
     text-decoration: none;
@@ -66,7 +65,8 @@ hr{
     text-align: center;
     height: fit-content;
     align-items: center;
-    margin-left: 37.5%;
+    margin-left: 39.5%;
+    margin-right: 60.5%;
     position: relative;
 }
 
