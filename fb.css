@@ -69,6 +69,7 @@ hr{
     align-items: center;
     position: relative;
     align-content: center;
+    margin: auto;
 }
 
 .button{
