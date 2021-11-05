@@ -22,18 +22,18 @@ body{
 .login{
     background-color:dodgerblue;
     border-radius: 0.2rem;
-    width: 250px;
-    height: 2rem;
-    padding-top: 10px;
+    width: 252px;
+    height: 2.1rem;
+    padding-top: 5px;
     padding-bottom: 10px;
     font-size: large;
-    margin-left: 41%;
+    margin-left: 40%;
     color: #ffffff;
     font-family: sans-serif;
     text-decoration: none;
     display: block;
     border-top: 50px;
-    position: relative;
+    position: absolute;
     
 
 }
@@ -43,6 +43,7 @@ hr{
     border-color: gray;
     position: relative;
     padding-top: 10px;
+    font-size: 30%;
 }
 
 .number{
@@ -73,6 +74,10 @@ hr{
     font-size: 15px;
     padding-bottom: 13px;
     width: fit-content;
+    height: fit-content;
+    margin-lef: 45%;
+    position: relative;
+    text-align: center;
 }
 
 .button{
@@ -94,7 +99,8 @@ hr{
 #or{
     padding:0.001%;
     text-align: center;
-    display: absolute;
+    display: inline-block;
+    width: 100px;
 }
 div {
     width: 100%;
@@ -114,7 +120,7 @@ div {
 div::after {
     content: "";
     background: url(./images/das.jpg);
-    opacity: 0.9;
+    opacity: 0.;
     top: 0;
     left: 0;
     bottom: 0;
