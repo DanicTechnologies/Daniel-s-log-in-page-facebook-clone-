@@ -75,6 +75,7 @@ hr{
     padding-bottom: 13px;
     width: fit-content;
     height: fit-content;
+    align-items: center;
     margin-lef: 45%;
     position: relative;
     text-align: center;
