@@ -1,0 +1,143 @@
+.facebook{
+    font-family: Arial, Helvetica, sans-serif;
+    color: dodgerblue;
+    text-align: center;
+}
+body{
+    text-align: center;
+    html { 
+        width: 100%;
+        height: 100%;
+      background: url('./') no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      filter: opacity(0.9);
+        -webkit-filter: opacity(0.9);
+        -moz-filter: opacity(0.9);
+      -o-filter: opacity(0.9);
+    }
+}
+.login{
+    background-color:dodgerblue;
+    border-radius: 0.2rem;
+    width: 250px;
+    height: 2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+    margin-left: 41%;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    display: block;
+    border-top: 50px;
+    position: relative;
+    
+
+}
+hr{
+    display: inline-block;
+    width: 100px;margin-left: auto;margin-right: auto;height: 1px;background-color: gray;opcaity: 0.2rem;
+    border-color: gray;
+    position: relative;
+    padding-top: 10px;
+}
+
+.number{
+    width: 30%;
+    height: 2.2rem;
+    border-radius: 0.5rem;
+    border: 2px solid #ffffff;
+    background: #e4e4eb;
+}
+.number:active{
+    border-style: hidden;
+    border-color: #ffffff;
+}
+.password{
+    width: 30%;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    border: 2px solid #ffffff ;
+    background: #e4e4eb;
+    
+}
+.fogp{
+    font-family: Arial, Helvetica, sans-serif;
+    color: dodgerblue;
+    text-decoration: none;
+    padding-top: 8px;
+    display: block;
+    font-size: 15px;
+    padding-bottom: 13px;
+    width: fit-content;
+}
+
+.button{
+    text-decoration: none;
+    color: dodgerblue;
+    border: none;
+    color: #ffffff;
+    padding: 0.7em 2.3em;
+    font-size: 15px;
+    border-radius: 0.5em;
+    background: #23d15d;
+    border: 1px solid #e8e8e8;
+    transition: all .3s;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    
+}
+#or{
+    padding:0.001%;
+}
+div {
+    width: 100%;
+    height: 25px;
+    display: block;
+    position: absolute;
+    background-repeat: no-repeat;
+  }
+.or{
+      position: relative;
+      color: gray;
+      font-size: px;
+      display: inline-block;
+  }
+  
+div::after {
+    content: "";
+    background: url(./images/das.jpg);
+    opacity: 0.9;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;  
+    background-position: 50% 45%;
+    border: 1px;
+    margin: 0px;
+    padding-top: 50rem;
+    background-repeat: no-repeat;
+  }
+  footer{
+      text-align: left;
+      font-style: italic;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  }
+/*div:after {
+    content: "";
+
+    opacity: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
