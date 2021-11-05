@@ -74,11 +74,11 @@ hr{
     font-size: 15px;
     padding-bottom: 13px;
     width: fit-content;
+    text-align: center;
     height: fit-content;
     align-items: center;
-    margin-lef: 45%;
+    margin-left: 45%;
     position: relative;
-    text-align: center;
 }
 
 .button{
