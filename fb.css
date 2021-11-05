@@ -66,6 +66,7 @@ hr{
     height: fit-content;
     align-items: center;
     position: relative;
+    align-content: center;
 }
 
 .button{
