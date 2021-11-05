@@ -94,6 +94,7 @@ hr{
 #or{
     padding:0.001%;
     text-align: center;
+    display: absolute;
 }
 div {
     width: 100%;
