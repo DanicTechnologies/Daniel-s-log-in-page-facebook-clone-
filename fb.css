@@ -79,6 +79,7 @@ hr{
     align-items: center;
     margin-left: 45%;
     position: relative;
+    float: right;
 }
 
 .button{
