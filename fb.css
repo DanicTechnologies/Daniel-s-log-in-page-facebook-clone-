@@ -108,6 +108,7 @@ div {
       color: gray;
       font-size: px;
       display: inline-block;
+      text-align: center;
   }
   
 div::after {
